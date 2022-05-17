@@ -1,0 +1,15 @@
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\Paralel_2.exe
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\Paralel_2.deps.json
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\Paralel_2.runtimeconfig.json
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\Paralel_2.dll
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\ref\Paralel_2.dll
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\bin\Debug\net6.0\Paralel_2.pdb
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.AssemblyInfoInputs.cache
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.AssemblyInfo.cs
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.csproj.CoreCompileInputs.cache
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.dll
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\ref\Paralel_2.dll
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.pdb
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.genruntimeconfig.cache
+C:\Users\Denel32\source\repos\Paralel_2\Paralel_2\obj\Debug\net6.0\Paralel_2.csproj.AssemblyReference.cache
